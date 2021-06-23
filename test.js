@@ -5,3 +5,5 @@ function sayHi()
 {
     return 'hello'
 }
+
+//let result=sayHi
