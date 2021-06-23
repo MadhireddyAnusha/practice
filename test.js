@@ -6,4 +6,4 @@ function sayHi()
     return 'hello'
 }
 
-//let result=sayHi
+let result=sayHi
