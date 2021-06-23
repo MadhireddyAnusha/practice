@@ -7,3 +7,5 @@ function sayHi()
 }
 
 let result=sayHi
+
+console.log(result)
